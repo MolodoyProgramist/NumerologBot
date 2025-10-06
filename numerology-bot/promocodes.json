@@ -1,0 +1,17 @@
+{
+    "PROMO1": {
+        "minutes": 60
+    },
+    "VIP2024": {
+        "hours": 2
+    },
+    "SUPER": {
+        "days": 1
+    },
+    "HELENA": {
+        "hours": 2
+    },
+    "TEST": {
+        "minutes": 20
+    }
+}
