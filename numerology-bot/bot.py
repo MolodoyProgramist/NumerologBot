@@ -63,8 +63,8 @@ def has_paid_access(user_id: int):
         return datetime.datetime.now() < datetime.datetime.strptime(until, "%Y-%m-%d %H:%M:%S")
     return False
 
-BOT_TOKEN = '7546921278:AAEuywidrVw4vH5ZU5-FZyjcm6Xfg5g8ajQ'
-#BOT_TOKEN = '8161705309:AAEGRELdy1bfk5Rw0l4mSCeTsHvevBY_t7s'
+BOT_TOKEN = 'ТОКЕН'
+#BOT_TOKEN = 'ТОКЕН'
 ADMIN_ID = 1079521408
 bot = Bot(token=BOT_TOKEN)
 router = Router()
